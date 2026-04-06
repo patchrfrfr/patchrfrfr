@@ -184,7 +184,7 @@ reversing at 2am. you know the vibe.
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=patchrfrfr&theme=dracula)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=patchrfrfr&theme=dracula&hide_border=true&area=true&custom_title=contribution+activity)
 
 </div>
 
