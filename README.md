@@ -8,8 +8,11 @@ I pull apart software to see what's hiding inside. Malware analysis, reverse eng
 
 <br>
 
+**languages**
+
+<img src="https://skillicons.dev/icons?i=cpp,cs,python,rust,lua,js&theme=dark" />
+
 ```
-languages   c++  c#  python  rust  lua  asm
 tools       ida pro  x64dbg  binary ninja  dnspy  fiddler
 ```
 
@@ -20,6 +23,10 @@ tools       ida pro  x64dbg  binary ninja  dnspy  fiddler
 | [Scraper](https://github.com/patchrfrfr/Scraper) | website source extraction & static analysis pipeline |
 | [BlankDeOBF](https://github.com/patchrfrfr/BlankDeOBF) | static python deobfuscator, multi-layer, no execution |
 | [FreeCaptchaSolver](https://github.com/patchrfrfr/FreeCaptchaSolver) | 10-method captcha solver, image processing, no paid apis |
+
+<br>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=patchrfrfr&theme=github-compact&hide_border=true&bg_color=0d1117&color=6e40c9&line=6e40c9&point=ffffff&area=true&area_color=6e40c9)
 
 <br>
 
