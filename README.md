@@ -9,15 +9,28 @@
 
 ---
 
-I pull apart software to see what's hiding inside — malware analysis, reverse engineering, vulnerability research. On the side, tools that actually solve problems.
+I pull apart software to see what's hiding inside, malware analysis, reverse engineering, vulnerability research. On the side, tools that actually solve problems.
 
 Took down **20+ malicious cheat servers** distributing malware. Static analysis, dynamic analysis, threat research.
 
 ---
 
-**languages** &nbsp; `C++` `C#` `Python` `Rust` `Lua` `Assembly`
+**languages**
 
-**tools** &nbsp; `IDA Pro` `x64dbg` `Binary Ninja` `dnSpy` `Fiddler`
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat-square&logoColor=white)
+
+**tools**
+
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-darkred?style=flat-square&logoColor=white)
+![x64dbg](https://img.shields.io/badge/x64dbg-2d2d2d?style=flat-square&logoColor=white)
+![Binary Ninja](https://img.shields.io/badge/Binary_Ninja-4B0082?style=flat-square&logoColor=white)
+![dnSpy](https://img.shields.io/badge/dnSpy-1e1e2e?style=flat-square&logoColor=white)
+![Fiddler](https://img.shields.io/badge/Fiddler-006400?style=flat-square&logoColor=white)
 
 ---
 
@@ -35,8 +48,10 @@ $ echo $STATUS
 ```
 
 <div align="center">
-  <a href="https://github.com/patchrfrfr">github</a> &nbsp;·&nbsp;
-  <a href="https://youtube.com/@CryptedLikesReversing">youtube</a> &nbsp;·&nbsp;
-  <a href="https://discord.com/users/patchr">discord</a> &nbsp;·&nbsp;
-  <a href="mailto:cryptedsprivate@gmail.com">email</a>
+
+[![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/patchrfrfr)
+[![YouTube](https://img.shields.io/badge/youtube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@CryptedLikesReversing)
+[![Discord](https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/patchr)
+[![Email](https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:cryptedsprivate@gmail.com)
+
 </div>
