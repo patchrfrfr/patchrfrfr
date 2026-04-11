@@ -27,11 +27,9 @@ I pull apart software to see what's hiding inside. Malware analysis, reverse eng
 
 **projects**
 
-```
-Scraper             website source extraction & static analysis pipeline
-BlankDeOBF          static python deobfuscator, multi-layer, no execution
-FreeCaptchaSolver   10-method captcha solver, image processing, no paid apis
-```
+[![Scraper](scraper.svg)](https://github.com/patchrfrfr/Scraper)
+[![BlankDeOBF](blankdeobf.svg)](https://github.com/patchrfrfr/BlankDeOBF)
+[![FreeCaptchaSolver](freecaptchasolver.svg)](https://github.com/patchrfrfr/FreeCaptchaSolver)
 
 <br>
 
