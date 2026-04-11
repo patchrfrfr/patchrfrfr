@@ -27,15 +27,11 @@ I pull apart software to see what's hiding inside. Malware analysis, reverse eng
 
 **projects**
 
-<a href="https://github.com/patchrfrfr/Scraper">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=patchrfrfr&repo=Scraper&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e"/>
-</a>
-<a href="https://github.com/patchrfrfr/BlankDeOBF">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=patchrfrfr&repo=BlankDeOBF&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e"/>
-</a>
-<a href="https://github.com/patchrfrfr/FreeCaptchaSolver">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=patchrfrfr&repo=FreeCaptchaSolver&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e"/>
-</a>
+```
+Scraper             website source extraction & static analysis pipeline
+BlankDeOBF          static python deobfuscator, multi-layer, no execution
+FreeCaptchaSolver   10-method captcha solver, image processing, no paid apis
+```
 
 <br>
 
