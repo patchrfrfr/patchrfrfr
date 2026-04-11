@@ -27,9 +27,9 @@ I pull apart software to see what's hiding inside. Malware analysis, reverse eng
 
 **projects**
 
-<a href="https://github.com/patchrfrfr/Scraper"><img src="1.png" width="600"/></a>
-<a href="https://github.com/patchrfrfr/BlankDeOBF"><img src="2.png" width="600"/></a>
-<a href="https://github.com/patchrfrfr/FreeCaptchaSolver"><img src="3.png" width="600"/></a>
+<a href="https://github.com/patchrfrfr/Scraper"><img src="1.png" width="100%"/></a>
+<a href="https://github.com/patchrfrfr/BlankDeOBF"><img src="2.png" width="100%"/></a>
+<a href="https://github.com/patchrfrfr/FreeCaptchaSolver"><img src="3.png" width="100%"/></a>
 
 <br>
 
@@ -54,4 +54,3 @@ $ echo $STATUS
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:0d1117&height=80&section=footer" width="100%"/>
 </div>
-````
