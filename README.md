@@ -1,31 +1,31 @@
-# patchr `/ Crypted`
-*reverse engineer · malware analyst · developer*
+<div align="center">
+  <h1>patchr <sub><sup>/ Crypted</sup></sub></h1>
+  <p><i>reverse engineer · malware analyst · developer</i></p>
+  <p>
+    <img src="https://img.shields.io/badge/20%2B_servers_neutralized-ff5555?style=flat-square&labelColor=161b22">
+    <img src="https://img.shields.io/badge/5%2B_years_reversing-bd93f9?style=flat-square&labelColor=161b22">
+  </p>
+</div>
 
 ---
 
-**20+ servers neutralized** · **5+ years reversing**
+I pull apart software to see what's hiding inside — malware analysis, reverse engineering, vulnerability research. On the side, tools that actually solve problems.
 
-I pull apart software to see what's hiding inside.  
-Malware analysis, reverse engineering, vulnerability research — and tools that actually solve problems.
-
----
-
-### stack
-`C++` `C#` `Python` `Rust` `Lua` `Assembly`  
-`IDA Pro` `x64dbg` `Binary Ninja` `dnSpy`
+Took down **20+ malicious cheat servers** distributing malware. Static analysis, dynamic analysis, threat research.
 
 ---
 
-### projects
+**languages** &nbsp; `C++` `C#` `Python` `Rust` `Lua` `Assembly`
 
-**[Scraper](https://github.com/patchrfrfr/Scraper)**  
-Website source extraction & static analysis pipeline. Pulls HTML/JS/CSS, deobfuscates, no execution.
+**tools** &nbsp; `IDA Pro` `x64dbg` `Binary Ninja` `dnSpy` `Fiddler`
 
-**[BlankDeOBF](https://github.com/patchrfrfr/BlankDeOBF)**  
-Static Python deobfuscator for BlankOBF. Multi-layer decryption, code never runs.
+---
 
-**[FreeCaptchaSolver](https://github.com/patchrfrfr/FreeCaptchaSolver)**  
-10-method CAPTCHA solver, image processing based, no paid APIs.
+**[Scraper](https://github.com/patchrfrfr/Scraper)** — website source extraction & static analysis pipeline. HTML/JS/CSS, deobfuscation, no execution.
+
+**[BlankDeOBF](https://github.com/patchrfrfr/BlankDeOBF)** — static Python deobfuscator for BlankOBF. multi-layer decryption, code never runs.
+
+**[FreeCaptchaSolver](https://github.com/patchrfrfr/FreeCaptchaSolver)** — 10-method CAPTCHA solver, image processing, no paid APIs.
 
 ---
 
@@ -34,4 +34,9 @@ $ echo $STATUS
 "something is always being reversed."
 ```
 
-[github](https://github.com/patchrfrfr) · [youtube](https://youtube.com/@CryptedLikesReversing) · [discord](https://discord.com/users/patchr) · [email](mailto:cryptedsprivate@gmail.com)
+<div align="center">
+  <a href="https://github.com/patchrfrfr">github</a> &nbsp;·&nbsp;
+  <a href="https://youtube.com/@CryptedLikesReversing">youtube</a> &nbsp;·&nbsp;
+  <a href="https://discord.com/users/patchr">discord</a> &nbsp;·&nbsp;
+  <a href="mailto:cryptedsprivate@gmail.com">email</a>
+</div>
