@@ -1,0 +1,12 @@
+<svg width="100%" viewBox="0 0 800 120" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>FreeCaptchaSolver project card</title>
+  <rect width="800" height="120" rx="8" fill="#0d1117" stroke="#6e40c9" stroke-width="0.75"/>
+  <rect width="4" height="120" rx="2" fill="#6e40c9"/>
+  <text x="28" y="42" font-family="monospace" font-size="18" font-weight="700" fill="#ffffff">FreeCaptchaSolver</text>
+  <text x="28" y="68" font-family="monospace" font-size="13" fill="#8b949e">Multi-method CAPTCHA solver using image processing.</text>
+  <text x="28" y="88" font-family="monospace" font-size="13" fill="#8b949e">10 distinct solving methods — no paid API keys required.</text>
+  <rect x="28" y="100" width="70" height="14" rx="7" fill="#1a0a2e"/>
+  <text x="63" y="111" font-family="monospace" font-size="11" fill="#6e40c9" text-anchor="middle">Python</text>
+  <rect x="106" y="100" width="100" height="14" rx="7" fill="#1a0a2e"/>
+  <text x="156" y="111" font-family="monospace" font-size="11" fill="#6e40c9" text-anchor="middle">10 methods</text>
+</svg>
