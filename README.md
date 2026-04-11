@@ -12,8 +12,12 @@ I pull apart software to see what's hiding inside. Malware analysis, reverse eng
 
 <img src="https://skillicons.dev/icons?i=cpp,cs,python,rust,lua,js&theme=dark" />
 
+<br>
+
+**tools**
+
 ```
-tools       ida pro  x64dbg  binary ninja  dnspy  fiddler
+ida pro  x64dbg  binary ninja  dnspy  fiddler
 ```
 
 <br>
@@ -38,7 +42,10 @@ $ echo $STATUS
 <br>
 
 <div align="center">
-  <a href="https://github.com/patchrfrfr">github</a> &nbsp;&nbsp; <a href="https://youtube.com/@CryptedLikesReversing">youtube</a> &nbsp;&nbsp; <a href="https://discord.com/users/patchr">discord</a> &nbsp;&nbsp; <a href="mailto:cryptedsprivate@gmail.com">email</a>
+  <a href="https://github.com/patchrfrfr"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://youtube.com/@CryptedLikesReversing"><img src="https://skillicons.dev/icons?i=youtube&theme=dark" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://discord.com/users/patchr"><img src="https://skillicons.dev/icons?i=discord&theme=dark" height="40"/></a>&nbsp;&nbsp;
+  <a href="mailto:cryptedsprivate@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40"/></a>
 </div>
 
 <div align="center">
