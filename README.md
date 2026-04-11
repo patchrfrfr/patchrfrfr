@@ -1,4 +1,3 @@
-````md
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:6e40c9&height=120&section=header&text=patchr&fontSize=42&fontColor=ffffff&fontAlignY=65&desc=reverse%20engineer%20%C2%B7%20malware%20analyst%20%C2%B7%20developer&descSize=13&descAlignY=85&descColor=8b949e" width="100%"/>
 </div>
