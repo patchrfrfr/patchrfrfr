@@ -16,9 +16,12 @@ I pull apart software to see what's hiding inside. Malware analysis, reverse eng
 
 **tools**
 
-```
-ida pro  x64dbg  binary ninja  dnspy  fiddler
-```
+<img src="ida.png" height="40" title="IDA Pro"/>&nbsp;&nbsp;
+<img src="x64.png" height="40" title="x64dbg"/>&nbsp;&nbsp;
+<img src="binary.png" height="40" title="Binary Ninja"/>&nbsp;&nbsp;
+<img src="dnspy.png" height="40" title="dnSpy"/>&nbsp;&nbsp;
+<img src="fiddler.png" height="40" title="Fiddler"/>&nbsp;&nbsp;
+<img src="http.png" height="40" title="HTTP Debugger"/>
 
 <br>
 
@@ -43,7 +46,7 @@ $ echo $STATUS
 
 <div align="center">
   <a href="https://github.com/patchrfrfr"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://youtube.com/@CryptedLikesReversing"><img src="https://skillicons.dev/icons?i=youtube&theme=dark" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://youtube.com/@CryptedLikesReversing"><img src="https://cdn.simpleicons.org/youtube/ffffff" height="40"/></a>&nbsp;&nbsp;
   <a href="https://discord.com/users/patchr"><img src="https://skillicons.dev/icons?i=discord&theme=dark" height="40"/></a>&nbsp;&nbsp;
   <a href="mailto:cryptedsprivate@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40"/></a>
 </div>
