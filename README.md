@@ -1,3 +1,4 @@
+````md
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:6e40c9&height=120&section=header&text=patchr&fontSize=42&fontColor=ffffff&fontAlignY=65&desc=reverse%20engineer%20%C2%B7%20malware%20analyst%20%C2%B7%20developer&descSize=13&descAlignY=85&descColor=8b949e" width="100%"/>
 </div>
@@ -27,9 +28,9 @@ I pull apart software to see what's hiding inside. Malware analysis, reverse eng
 
 **projects**
 
-[![Scraper](1.png)](https://github.com/patchrfrfr/Scraper)
-[![BlankDeOBF](2.png)](https://github.com/patchrfrfr/BlankDeOBF)
-[![FreeCaptchaSolver](3.png)](https://github.com/patchrfrfr/FreeCaptchaSolver)
+<a href="https://github.com/patchrfrfr/Scraper"><img src="1.png" width="600"/></a>
+<a href="https://github.com/patchrfrfr/BlankDeOBF"><img src="2.png" width="600"/></a>
+<a href="https://github.com/patchrfrfr/FreeCaptchaSolver"><img src="3.png" width="600"/></a>
 
 <br>
 
@@ -54,3 +55,4 @@ $ echo $STATUS
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:0d1117&height=80&section=footer" width="100%"/>
 </div>
+````
