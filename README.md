@@ -4,7 +4,7 @@
 
 <br>
 
-I pull apart software to see whats hiding inside. Malware analysis, reverse engineering, vulnerability research and developing. Took down **20+ malicious cheat servers** sharing malware to users.
+I pull apart software to see what’s hiding inside. Malware analysis, reverse engineering, vulnerability research and developing. Took down **20+ malicious cheat servers** sharing malware to users.
 
 <br>
 
