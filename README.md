@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0533,100:6e40c9&height=140&section=header&text=patchr&fontSize=42&fontColor=ffffff&fontAlignY=55" width="100%"/>
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=13&duration=2000&pause=600&color=a78bfa&center=true&vCenter=true&width=500&height=30&lines=reverse+engineer+%C2%B7+malware+analyst+%C2%B7+developer;reversing+binaries;hunting+malware;breaking+things" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0533,100:6e40c9&height=140&section=header&text=patchr&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=reverse%20engineer%20%C2%B7%20malware%20analyst%20%C2%B7%20developer&descSize=13&descAlignY=68&descColor=a78bfa" width="100%"/>
 </div>
 
 <br>
