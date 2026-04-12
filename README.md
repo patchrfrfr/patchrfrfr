@@ -2,20 +2,20 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:6e40c9&height=140&section=header&text=patchr&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=reverse%20engineer%20%C2%B7%20malware%20analyst%20%C2%B7%20developer&descSize=13&descAlignY=75&descColor=8b949e" width="100%"/>
 </div>
 <br>
-I pull apart software to see whats hiding inside. Malware analysis, reverse engineering, vulnerability research and developing. Took down 20+ malicious cheat servers sharing malware to users.
+I pull apart software to see whats hiding inside. Malware analysis, reverse engineering, vulnerability research and developing. Took down **20+ malicious cheat servers** sharing malware to users.
 <br>
-languages
+**languages**
 <img src="https://skillicons.dev/icons?i=cpp,cs,python,rust,lua,js&theme=dark" />
 <br>
-tools
-<img src="ida.png" height="40" title="IDA Pro"/>  
-<img src="x64.png" height="40" title="x64dbg"/>  
-<img src="binary.png" height="40" title="Binary Ninja"/>  
-<img src="dnspy.png" height="40" title="dnSpy"/>  
-<img src="fiddler.png" height="40" title="Fiddler"/>  
+**tools**
+<img src="ida.png" height="40" title="IDA Pro"/>&nbsp;&nbsp;
+<img src="x64.png" height="40" title="x64dbg"/>&nbsp;&nbsp;
+<img src="binary.png" height="40" title="Binary Ninja"/>&nbsp;&nbsp;
+<img src="dnspy.png" height="40" title="dnSpy"/>&nbsp;&nbsp;
+<img src="fiddler.png" height="40" title="Fiddler"/>&nbsp;&nbsp;
 <img src="http.png" height="40" title="HTTP Debugger"/>
 <br>
-projects
+**projects**
 <a href="https://github.com/patchrfrfr/Scraper"><img src="1.png" width="100%"/></a>
 <a href="https://github.com/patchrfrfr/BlankDeOBF"><img src="2.png" width="100%"/></a>
 <a href="https://github.com/patchrfrfr/FreeCaptchaSolver"><img src="3.png" width="100%"/></a>
