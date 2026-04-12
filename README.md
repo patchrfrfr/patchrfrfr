@@ -52,7 +52,7 @@ $ echo $STATUS
 
 <div align="center">
   <a href="https://github.com/patchrfrfr"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://youtube.com/@CryptedLikesReversing"><img src="https://skillicons.dev/icons?i=youtube&theme=dark" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://youtube.com/@CryptedLikesReversing"><img src="https://go-skill-icons.vercel.app/api/icons?i=youtube&theme=dark" height="40"/></a>&nbsp;&nbsp;
   <a href="https://discord.com/users/patchr"><img src="https://skillicons.dev/icons?i=discord&theme=dark" height="40"/></a>&nbsp;&nbsp;
   <a href="mailto:cryptedsprivate@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40"/></a>
 </div>
