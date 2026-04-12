@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:6e40c9&height=140&section=header&text=patchr&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=reverse%20engineer%20%C2%B7%20malware%20analyst%20%C2%B7%20developer&descSize=13&descAlignY=75&descColor=8b949e" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0533,100:6e40c9&height=140&section=header&text=patchr&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=reverse%20engineer%20%C2%B7%20malware%20analyst%20%C2%B7%20developer&descSize=13&descAlignY=75&descColor=a78bfa" width="100%"/>
 </div>
 
 <br>
@@ -8,24 +8,28 @@ I pull apart software to see whats hiding inside. Malware analysis, reverse engi
 
 <br>
 
-**languages**
+### `> languages`
 
 <img src="https://skillicons.dev/icons?i=cpp,cs,python,rust,lua,js&theme=dark" />
 
 <br>
 
-**tools**
+### `> tools`
 
-<img src="ida.png" height="40" title="IDA Pro"/>&nbsp;&nbsp;
-<img src="x64.png" height="40" title="x64dbg"/>&nbsp;&nbsp;
-<img src="binary.png" height="40" title="Binary Ninja"/>&nbsp;&nbsp;
-<img src="dnspy.png" height="40" title="dnSpy"/>&nbsp;&nbsp;
-<img src="fiddler.png" height="40" title="Fiddler"/>&nbsp;&nbsp;
-<img src="http.png" height="40" title="HTTP Debugger"/>
+<table>
+  <tr>
+    <td align="center"><img src="ida.png" height="40"/><br/><sub><b>IDA Pro</b></sub></td>
+    <td align="center"><img src="x64.png" height="40"/><br/><sub><b>x64dbg</b></sub></td>
+    <td align="center"><img src="binary.png" height="40"/><br/><sub><b>Binary Ninja</b></sub></td>
+    <td align="center"><img src="dnspy.png" height="40"/><br/><sub><b>dnSpy</b></sub></td>
+    <td align="center"><img src="fiddler.png" height="40"/><br/><sub><b>Fiddler</b></sub></td>
+    <td align="center"><img src="http.png" height="40"/><br/><sub><b>HTTP Debugger</b></sub></td>
+  </tr>
+</table>
 
 <br>
 
-**projects**
+### `> projects`
 
 <a href="https://github.com/patchrfrfr/Scraper"><img src="1.png" width="100%"/></a>
 <a href="https://github.com/patchrfrfr/BlankDeOBF"><img src="2.png" width="100%"/></a>
@@ -33,7 +37,9 @@ I pull apart software to see whats hiding inside. Malware analysis, reverse engi
 
 <br>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=patchrfrfr&theme=github-compact&hide_border=true&bg_color=0d1117&color=6e40c9&line=6e40c9&point=ffffff&area=true&area_color=6e40c9)
+### `> activity`
+
+<img loading="lazy" src="https://github-readme-activity-graph.vercel.app/graph?username=patchrfrfr&theme=github-compact&hide_border=true&bg_color=0d1117&color=a78bfa&line=6e40c9&point=a78bfa&area=true&area_color=6e40c9" width="100%"/>
 
 <br>
 
